@@ -1,0 +1,31 @@
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+.main{
+  margin-top: 40px;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  border:1px solid dimgrey;
+  background-color:lavender;
+}
+.form{
+  margin-top: 15px;
+}
+
+.btn{
+  border-radius: 3px;
+  padding:2px;
+  color:gray;
+  border:2px solid cadetblue;
+  background:none;
+  }
+strong{
+  color:cadetblue;
+}
+p{
+  color:gray;
+}
